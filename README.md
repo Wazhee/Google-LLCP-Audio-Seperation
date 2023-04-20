@@ -1,4 +1,7 @@
-Looking to Listen at the Cocktail Party:- [Paper](https://arxiv.org/abs/1804.03619)
+Looking to Listen at the Cocktail Party: [Paper](https://arxiv.org/abs/1804.03619)<br>
+
+<img width="700" alt="Screenshot 2023-04-20 at 4 03 50 PM" src="https://user-images.githubusercontent.com/34732790/233487351-c0865b70-7e52-4b00-b9ed-53be9e456338.png">
+
 
 Using google research Audio Separation model to separate interviewee voice from background noise. 
 
